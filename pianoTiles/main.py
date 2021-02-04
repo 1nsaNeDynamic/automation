@@ -15,7 +15,7 @@ def click(x,y):
 # pyautogui.displayMousePosition()
 
 
-# Adjust the tile cordinates accordingly
+# Adjust the tile coordinates accordingly
 tileOne = {
     'x': 634,
     'y': 424
